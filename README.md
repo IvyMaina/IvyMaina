@@ -10,7 +10,9 @@ Possible focus areas:
 - Humanitarian modelling: poverty, food security, and educational inequality
 
 Philosophy
+
 Technology without a moral spine is indistinguishable from harm.
+
 I am interested in understanding how societies can safely govern increasingly capable AI systems under conditions of uncertainty and rapid technological change and translate computation into decisions that are just, intelligible, and human-protective.
 
 I build in public — not as performance, but as transparent process.
