@@ -1,6 +1,4 @@
-I am a Computer Engineering graduate student with a research-driven interest in applying technology to
-humanitarian outcomes, ethical AI governance, and evidence-based social policy. My work sits at the
-intersection of data, human vulnerability, and responsible innovation.
+Computer Science graduate and Master's student with experience in cybersecurity and technology systems. Interested in AI governance, AI security, and how institutions can safely govern increasingly capable AI systems. Particularly interested in the intersection of technical security, international governance, and emerging economies.
 
 Current focuses
 - Humanitarian modelling: poverty, food security, and educational inequality
